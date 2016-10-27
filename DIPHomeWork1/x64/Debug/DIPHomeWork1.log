@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Dip1.cpp
+e:\work\tuberlin\tuberlinstudy\winter16-17\digitalimageprocessing\homework\diphomework1-rc01\diphomework1\dip1.cpp(198): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  DIPHomeWork1.vcxproj -> E:\Work\TUBerlin\TUBerlinStudy\winter16-17\DigitalImageProcessing\HomeWork\DIPHomeWork1-RC01\x64\Debug\DIPHomeWork1.exe
+  DIPHomeWork1.vcxproj -> E:\Work\TUBerlin\TUBerlinStudy\winter16-17\DigitalImageProcessing\HomeWork\DIPHomeWork1-RC01\x64\Debug\DIPHomeWork1.pdb (Full PDB)
