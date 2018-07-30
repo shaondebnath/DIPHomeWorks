@@ -16,15 +16,15 @@ Using one of the supported browsers listed below, go to http://YOUR_HOST_NAME:80
 
 ## Supported Devices and browsers
 
-###iOS users
+### iOS users
 Install XR Browser from Apple Store(iOS 11.0 or later)
 https://itunes.apple.com/us/app/webxr-viewer/id1295998056?mt=8 
 
 
-###Android Users:
+### Android Users:
 Step1: Install Tango Core (https://github.com/google-ar/arcore-android-sdk/releases/download/sdk-preview/arcore-preview.apk) (also can be found in google play store)
 
 Step2: Install Browser: WebARonARCore (https://github.com/google-ar/WebARonARCore/raw/webarcore_57.0.2987.5/apk/WebARonARCore.apk)
 
-###Supported device list
+### Supported device list
 Supported devices list can be found at https://developers.google.com/ar/discover/supported-devices 
